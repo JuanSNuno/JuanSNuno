@@ -1,6 +1,6 @@
 # Hola, soy Juanjo 👋
 
-**Arquitecto de Software | Senior Project Manager | Innovador Tecnológico**
+**Arquitecto de Software | Project Manager | Innovador Tecnológico**
 
 Diseño, planifico y construyo soluciones escalables que resuelven problemas complejos del mundo real. Mi enfoque principal es la **implementación de tecnologías emergentes** para modernizar arquitecturas, optimizar flujos de trabajo y crear productos digitales de alto impacto.
 
