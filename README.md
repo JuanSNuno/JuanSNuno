@@ -25,10 +25,15 @@ Diseño, planifico y construyo soluciones escalables que resuelven problemas com
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Tecnologías Emergentes & Exploración
-*(Agrega aquí los badges de las tecnologías en las que te estás enfocando, por ejemplo: Docker, AWS, OpenAI API, LangChain, etc.)*
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## 💡 Proyectos Destacados y Experiencia
-
 A lo largo de mi carrera, he liderado la arquitectura y el desarrollo de:
 * **Plataformas de Logística y Distribución:** Sistemas de gestión de rutas y optimización de flotas para empresas del sector.
 * **Sistemas Financieros y ERP:** Software a medida para facturación, cuentas por cobrar y flujos operativos.
