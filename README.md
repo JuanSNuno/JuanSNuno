@@ -1,4 +1,4 @@
-# Hola, soy Juan José Sanchez 👋
+# Hola, soy Juanjo 👋
 
 **Arquitecto de Software | Senior Project Manager | Innovador Tecnológico**
 
